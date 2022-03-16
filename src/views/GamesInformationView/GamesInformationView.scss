@@ -1,0 +1,29 @@
+table{
+    background: #ffffff33;
+    color: white !important;
+}
+
+.col-sm-12 {
+    padding: 0px !important;
+}
+
+td{
+    vertical-align: middle !important;
+}  
+
+table a{
+    color: #16ff1c !important;
+    text-decoration: underline;
+}
+
+.modal-body{
+    padding: 0.5rem !important;
+}
+
+iframe{
+    width: calc( 100% - 1rem) !important;
+}
+
+.modal-backdrop{
+    display: none !important;
+}

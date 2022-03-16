@@ -1,0 +1,20 @@
+nav {
+    padding: 30px 0;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    border-top: solid thin #488585;
+    margin: 0px;
+    background: white;
+  }
+  
+  nav a {
+    font-weight: normal;
+    color: black;
+    text-decoration: none;
+  }
+  
+  nav a.router-link-exact-active {
+    color: #488585;
+    font-weight: bold;
+  }
